@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=ZXdFisA_hOY&t=604s
+58:59
+
+dotnet run
+
+temporary skip for swagger
+
+dotnet new webapi -n Catalog
+
+
+.net 6 
+https://www.youtube.com/watch?v=hZ1DASYd9rk&t=335s
+
+
+how to create .net 6
+https://www.youtube.com/watch?v=elMpS1Js7rc
